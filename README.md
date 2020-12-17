@@ -34,7 +34,6 @@
 [rank8 code](https://github.com/JanzYe/TianchiMetroFlow)  
 [rank27 code](https://github.com/Hust-ZYD/SubwayFlowPredict?spm=5176.12282029.0.0.2bdd79b66UkH7X)  
 
-[9.28更新-天池方案20+](https://github.com/Xiaoxiaohuangg/subway_traffic_forecast-tianchi/network/members)
 
 ## 其他类似项目方案
 
