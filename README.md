@@ -29,8 +29,8 @@
 [亚军2 ppt](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.30.573050b5r7Gsyv&postId=54550)  
 [季军1 ppt](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.18.573050b5r7Gsyv&postId=54574)  
 [季军1 code](https://github.com/juzstu/TianChi_Hangzhou_Subway)  
-[季军2 ppt 中期参考](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.21.573050b5r7Gsyv&postId=54653)  
-[季军3 ppt 中期参考](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.24.573050b5r7Gsyv&postId=54599)  
+[季军2 ppt](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.21.573050b5r7Gsyv&postId=54653)  
+[季军3 ppt](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.24.573050b5r7Gsyv&postId=54599)  
 [rank8 code](https://github.com/JanzYe/TianchiMetroFlow)  
 [rank27 code](https://github.com/Hust-ZYD/SubwayFlowPredict?spm=5176.12282029.0.0.2bdd79b66UkH7X)  
 
@@ -67,7 +67,7 @@
 [LSTM 客流预测](https://www.cnblogs.com/mathor/p/12416567.html#autoid-0-0-2)  
 [LSTM 股价预测 支持三种框架](https://github.com/hichenway/stock_predict_with_LSTM)  
 [GCN Predicting Station-Level Short-Term Passenger Flow in a Citywide Metro Network Using Spatiotemporal Graph Convolutional Neural Networks 论文](https://www.researchgate.net/publication/333440253_Predicting_Station-Level_Short-Term_Passenger_Flow_in_a_Citywide_Metro_Network_Using_Spatiotemporal_Graph_Convolutional_Neural_Networks)
-
+[GCN 知乎](https://www.zhihu.com/question/54504471/answer/332657604)
 [TCN时序神经网络](https://www.cnblogs.com/PythonLearner/p/12925732.html)
 
 ### 算法
