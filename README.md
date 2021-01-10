@@ -70,6 +70,8 @@
 [GCN 知乎](https://www.zhihu.com/question/54504471/answer/332657604)  
 [TCN时序神经网络](https://www.cnblogs.com/PythonLearner/p/12925732.html)  
 
+[GCN CSDN](https://blog.csdn.net/zsycode/article/details/104498370)
+
 ### 算法
 
 [一些算法的简明理解-知乎专栏](https://zhuanlan.zhihu.com/aitom)
