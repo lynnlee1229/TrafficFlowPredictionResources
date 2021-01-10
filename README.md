@@ -69,8 +69,19 @@
 [GCN Predicting Station-Level Short-Term Passenger Flow in a Citywide Metro Network Using Spatiotemporal Graph Convolutional Neural Networks 论文](https://www.researchgate.net/publication/333440253_Predicting_Station-Level_Short-Term_Passenger_Flow_in_a_Citywide_Metro_Network_Using_Spatiotemporal_Graph_Convolutional_Neural_Networks)  
 [GCN 知乎](https://www.zhihu.com/question/54504471/answer/332657604)  
 [TCN时序神经网络](https://www.cnblogs.com/PythonLearner/p/12925732.html)  
-[GCN CSDN](https://blog.csdn.net/zsycode/article/details/104498370)
-
+[GCN论文综述 CSDN](https://blog.csdn.net/zsycode/article/details/104498370)  
+[DGCN论文导读 动态GCN](https://blog.csdn.net/zuiyishihefang/article/details/110413043)  
+[STGNN论文导读 一种新的基于时空图神经网络的交通流预测模型](https://blog.csdn.net/zuiyishihefang/article/details/108114617)  
+[T-GCN论文导读 时间图卷积网络用于交通预测](https://blog.csdn.net/zuiyishihefang/article/details/101260207)  
+[ASTGCN论文导读 基于时空注意力机制的图卷积神经网络](https://blog.csdn.net/zuiyishihefang/article/details/100111281)  
+[STGCNNmetro论文导读 基于图卷积神经网络的轨道交通流量预测](https://blog.csdn.net/zuiyishihefang/article/details/96978447)  
+[STGCN论文导读 第一次使用图卷积神经网络结构进行交通预测](https://blog.csdn.net/zuiyishihefang/article/details/93685443)  
+[code GCN pytorch](https://blog.csdn.net/weixin_43476533/article/details/105750702)  
+[code GAT pytorch](https://blog.csdn.net/weixin_43476533/article/details/107229242)  
+[code STGCN pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)  
+[code ASTGCN pytorch](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)  
+[code Some baseline model of Spatial-Temporal Forecasting pytorch](https://github.com/xumwen/spatial-temporal-forecast)  
+[code T-GCN pytorch](https://github.com/lehaifeng/T-GCN)  
 ### 算法
 
 [一些算法的简明理解-知乎专栏](https://zhuanlan.zhihu.com/aitom)
