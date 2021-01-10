@@ -66,7 +66,7 @@
 [LSTM 实践多变量时间序列预测](https://blog.csdn.net/weixin_37665577/article/details/86584201?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159806748019724843333273%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=159806748019724843333273&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~pc_rank_v3-3-86584201.pc_ecpm_v3_pc_rank_v3&utm_term=pytorch+%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97&spm=1018.2118.3001.4187)  
 [LSTM 客流预测](https://www.cnblogs.com/mathor/p/12416567.html#autoid-0-0-2)  
 [LSTM 股价预测 支持三种框架](https://github.com/hichenway/stock_predict_with_LSTM)  
-[Seq2Seq 简书](https://www.jianshu.com/p/80436483b13b)
+[Seq2Seq 简书](https://www.jianshu.com/p/80436483b13b)  
 [GCN Predicting Station-Level Short-Term Passenger Flow in a Citywide Metro Network Using Spatiotemporal Graph Convolutional Neural Networks 论文](https://www.researchgate.net/publication/333440253_Predicting_Station-Level_Short-Term_Passenger_Flow_in_a_Citywide_Metro_Network_Using_Spatiotemporal_Graph_Convolutional_Neural_Networks)  
 [kipf2016semi-半监督学习GCN](https://tkipf.github.io/graph-convolutional-networks/)
 [GCN 知乎](https://www.zhihu.com/question/54504471/answer/332657604)  
