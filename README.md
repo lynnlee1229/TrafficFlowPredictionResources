@@ -81,7 +81,7 @@
 [code STGCN pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)  
 [code ASTGCN pytorch](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)  
 [code Some baseline model of Spatial-Temporal Forecasting pytorch](https://github.com/xumwen/spatial-temporal-forecast)  
-[code T-GCN pytorch](https://github.com/lehaifeng/T-GCN)  
+[code T-GCN tf1.x](https://github.com/lehaifeng/T-GCN)  
 ### 算法
 
 [一些算法的简明理解-知乎专栏](https://zhuanlan.zhihu.com/aitom)
