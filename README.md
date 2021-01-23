@@ -78,7 +78,7 @@
 [T-GCN论文导读 时间图卷积网络用于交通预测](https://blog.csdn.net/zuiyishihefang/article/details/101260207)  
 [ASTGCN论文导读 基于时空注意力机制的图卷积神经网络](https://blog.csdn.net/zuiyishihefang/article/details/100111281)  
 [STGCNNmetro论文导读 基于图卷积神经网络的轨道交通流量预测](https://blog.csdn.net/zuiyishihefang/article/details/96978447)  
-[STGCN论文导读 第一次使用图卷积神经网络结构进行交通预测](https://blog.csdn.net/zuiyishihefang/article/details/93685443)  】
+[STGCN论文导读 第一次使用图卷积神经网络结构进行交通预测](https://blog.csdn.net/zuiyishihefang/article/details/93685443)  
 [时空数据挖掘 论文list 总结的不错](https://github.com/Eilene/spatio-temporal-paper-list)  
   
 [code GCN numpy](https://mp.weixin.qq.com/s/sg9O761F0KHAmCPOfMW_kQ)  
