@@ -71,6 +71,8 @@
 [GCN Predicting Station-Level Short-Term Passenger Flow in a Citywide Metro Network Using Spatiotemporal Graph Convolutional Neural Networks 论文](https://www.researchgate.net/publication/333440253_Predicting_Station-Level_Short-Term_Passenger_Flow_in_a_Citywide_Metro_Network_Using_Spatiotemporal_Graph_Convolutional_Neural_Networks)  
 [kipf2016semi-半监督学习GCN](https://tkipf.github.io/graph-convolutional-networks/)  
 [GCN 知乎](https://www.zhihu.com/question/54504471/answer/332657604)  
+[GCN介绍](https://www.cnblogs.com/nxf-rabbit75/p/11306198.html)  
+[GAT介绍](https://blog.csdn.net/leviopku/article/details/104622560?utm_source=app&app_version=4.5.0)  
 [TCN时序神经网络](https://www.cnblogs.com/PythonLearner/p/12925732.html)  
 [GCN论文综述 CSDN](https://blog.csdn.net/zsycode/article/details/104498370)  
 [DGCN论文导读 动态GCN](https://blog.csdn.net/zuiyishihefang/article/details/110413043)  
